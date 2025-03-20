@@ -1,4 +1,4 @@
-#📊 Dashboards sobre Estágio, Emprego e Carga Horária Docente nos Institutos Federais
+# 📊 Dashboards sobre Estágio, Emprego e Carga Horária Docente nos Institutos Federais
 Este repositório contém dashboards interativos desenvolvidos no Power BI a partir de dois estudos realizados no Instituto Federal do Pará (IFPA) :
 
 Estudo 1 : Portal Unificado de Estágio e Emprego nos Institutos Federais
@@ -7,7 +7,7 @@ Os estudos foram conduzidos no IFPA - Campus Belém sob a orientação do Prof. 
 
 ---
 
-##📌 Sobre os Estudos
+## 📌 Sobre os Estudos
 📍 1. Portal Unificado de Estágio e Emprego
 Objetivo: Propor uma solução tecnológica para centralizar informações sobre estágio e emprego na Rede Federal de Educação Profissional, Científica e Tecnológica .
 
@@ -34,15 +34,15 @@ Visualização clara das atividades docentes, possibilitando análises estratég
 
 ---
 
-##🔧 Ferramenta Utilizada
+## 🔧 Ferramenta Utilizada
 ✅ Power BI – Para visualização e análise de dados
 
 ---
 
-##📥 Como acessar os painéis
+## 📥 Como acessar os painéis
 1️⃣ Baixe os arquivos .pbix e abra no Power BI Desktop.
 
 ---
 
-##📌 Sobre o Projeto
+## 📌 Sobre o Projeto
 Este repositório foi criado para armazenar e divulgar os dashboards resultantes dos estudos acadêmicos desenvolvidos no IFPA - Campus Belém , proporcionando uma visão analítica sobre estágio, emprego e carga horária docente na Rede Federal.
